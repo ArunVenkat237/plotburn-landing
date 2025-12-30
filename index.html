@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>PlotBurn</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="PlotBurn — satire on news, movies & astrology. Facts stay real. Reactions don’t." />
+
+  <style>
+    :root {
+      --bg: #0e0e0e;
+      --fg: #eaeaea;
+      --muted: #9a9a9a;
+      --accent: #ff5c5c;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      background: var(--bg);
+      color: var(--fg);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      text-align: center;
+      padding: 24px;
+    }
+
+    .container {
+      max-width: 720px;
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 6px 14px;
+      border-radius: 999px;
+      background: #1c1c1c;
+      color: var(--muted);
+      font-size: 0.85rem;
+      margin-bottom: 20px;
+    }
+
+    h1 {
+      font-size: clamp(2.5rem, 6vw, 4rem);
+      margin: 0 0 12px;
+      letter-spacing: -0.02em;
+    }
+
+    .tagline {
+      font-size: 1.2rem;
+      color: var(--muted);
+      margin-bottom: 32px;
+    }
+
+    .card {
+      background: #161616;
+      border-radius: 16px;
+      padding: 24px;
+      margin-top: 24px;
+      text-align: left;
+    }
+
+    .card p {
+      margin: 0 0 14px;
+      color: #cfcfcf;
+      line-height: 1.6;
+    }
+
+    .card p:last-child {
+      margin-bottom: 0;
+    }
+
+    .highlight {
+      color: var(--accent);
+      font-weight: 500;
+    }
+
+    footer {
+      margin-top: 40px;
+      font-size: 0.85rem;
+      color: var(--muted);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <div class="badge">Coming Soon (unfortunately)</div>
+
+    <h1>PlotBurn</h1>
+
+    <div class="tagline">
+      Satire on <span class="highlight">news</span>, <span class="highlight">movies</span> & <span class="highlight">astrology</span>.<br>
+      Facts stay real. Reactions don’t.
+    </div>
+
+    <div class="card">
+      <p>
+        PlotBurn looks at real things happening in the world —
+        then responds with the level of seriousness they deserve.
+      </p>
+      <p>
+        No fake news. No made-up facts.
+        Just reality, interpreted with dry humor, sharp framing,
+        and the occasional emotional eye-roll.
+      </p>
+      <p>
+        If it feels absurd, that’s because it probably was.
+      </p>
+    </div>
+
+    <footer>
+      Built slowly. Roasted carefully.
+    </footer>
+
+  </div>
+</body>
+</html>
