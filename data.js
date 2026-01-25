@@ -374,90 +374,6 @@ const items = [
     {
       "movie": {
         "adult": false,
-        "backdrop_path": "/6rOWylYrsyPzB7qjwZPe9DFw6et.jpg",
-        "belongs_to_collection": null,
-        "budget": 0,
-        "genres": [
-          {
-            "id": 28,
-            "name": "Action"
-          },
-          {
-            "id": 18,
-            "name": "Drama"
-          }
-        ],
-        "homepage": "",
-        "id": 1439594,
-        "imdb_id": "tt36472392",
-        "origin_country": [
-          "IN"
-        ],
-        "original_language": "ml",
-        "original_title": "ചത്താ പച്ച: The Ring of Rowdies",
-        "overview": "In the heart of Fort Kochi, three brothers and their crew of unlikely misfits stumble into the wild world of WWE-style costumed wrestling. What begins as a scrappy hustle soon explodes into a riot of masks, egos, and full-blown madness, all set against the backdrop of a city that never plays by the rules. But can their brotherhood survive when the real fight begins outside the ropes?",
-        "popularity": 4.4401,
-        "poster_path": "/a41fqMDWRcZcDqidGcq10xmRoh.jpg",
-        "production_companies": [
-          {
-            "id": 279176,
-            "logo_path": null,
-            "name": "Reel World Entertainment",
-            "origin_country": ""
-          }
-        ],
-        "production_countries": [
-          {
-            "iso_3166_1": "IN",
-            "name": "India"
-          }
-        ],
-        "release_date": "2026-01-22",
-        "revenue": 0,
-        "runtime": 134,
-        "spoken_languages": [
-          {
-            "english_name": "Malayalam",
-            "iso_639_1": "ml",
-            "name": ""
-          }
-        ],
-        "status": "Released",
-        "tagline": "",
-        "title": "Chatha Pacha: The Ring of Rowdies",
-        "video": false,
-        "vote_average": 10,
-        "vote_count": 1
-      },
-      "roast": {
-        "headline": "Three Brothers Launch WWE Cosplay Club in Fort Kochi, Call It Cinema",
-        "overview": "Three brothers in Fort Kochi turn their childhood obsession with wrestling into an underground WWE-style promotion featuring ex-convicts, masked fights, and ego battles. They stage dramatic bouts that mirror real-life conflicts, complete with costumes and theatrics. One brother is asthmatic but takes on the biggest event anyway. Critics want a story; audiences just want body slams.",
-        "roast": "The filmmakers watched WWE as kids and decided to make it everyone's problem as adults. They built an entire movie around guys in costumes pretending to fight, then forgot to add a reason for us to care. It's all entrance music and slow-motion punches with zero emotional stakes. The asthmatic kid wrestling in the main event is peak 'we need drama but don't know how to write it.' Fans are thrilled because the action looks expensive and Mammootty shows up to wink at the camera. They're calling it a popcorn entertainer, which is code for 'my brain was off and I had fun.' Critics are gently noting that style without substance is just a really long music video. Meanwhile, the movie treats underground wrestling like it's saving the world when it's really just dudes in spandex settling beef. The energy is there, the story went home early.",
-        "reception": {
-          "bars": 6,
-          "label": "Mixed Bag"
-        },
-        "chips": [
-          "Style Only",
-          "Zero Stakes",
-          "Nostalgia Bait"
-        ],
-        "similar_movies": [
-          "RDX (2023) - three friends master martial arts, enter underground fight tournament",
-          "Thallumaala (2022) - gang rivalry unfolds through nonlinear brawls across timelines",
-          "Mutharamkunnu P.O. (2018) - brothers run wrestling academy, rivalry erupts over family land",
-          "The Wrestler (2008) - aging wrestler risks health for comeback match redemption"
-        ],
-        "shareable_caption": "They made WWE fanfiction and asked for three stars. #PlotBurn"
-      },
-      "generated_at": "2026-01-25T09:09:45.471Z",
-      "disclaimer": "Satire. Facts unchanged.",
-      "truth_source": "grok-extraction",
-      "truth_fetched_at": "2026-01-25T09:09:27.791Z"
-    },
-    {
-      "movie": {
-        "adult": false,
         "backdrop_path": "/dT1p0K1szMAUBuE2bibouDQdNb8.jpg",
         "belongs_to_collection": {
           "id": 1565,
@@ -966,90 +882,6 @@ const items = [
     {
       "movie": {
         "adult": false,
-        "backdrop_path": "/jGdicq27gdZclSyeJ0LzKMUxiX2.jpg",
-        "belongs_to_collection": null,
-        "budget": 0,
-        "genres": [
-          {
-            "id": 35,
-            "name": "Comedy"
-          },
-          {
-            "id": 18,
-            "name": "Drama"
-          }
-        ],
-        "homepage": "",
-        "id": 869140,
-        "imdb_id": "tt36926733",
-        "origin_country": [
-          "IN"
-        ],
-        "original_language": "ta",
-        "original_title": "தலைவர் தம்பி தலைமையில்",
-        "overview": "A village official attending a wedding becomes entangled in an escalating family dispute over power and old resentments, testing his leadership as he tries to contain the situation.",
-        "popularity": 2.0296,
-        "poster_path": "/wqofJvDrFv65QgyVmNI4loi9jZZ.jpg",
-        "production_companies": [
-          {
-            "id": 276260,
-            "logo_path": "/di3vc8S4QGDOR8hP2wC8x59z0VU.png",
-            "name": "Kannan Ravi Groups",
-            "origin_country": "IN"
-          }
-        ],
-        "production_countries": [
-          {
-            "iso_3166_1": "IN",
-            "name": "India"
-          }
-        ],
-        "release_date": "2026-01-15",
-        "revenue": 0,
-        "runtime": 113,
-        "spoken_languages": [
-          {
-            "english_name": "Tamil",
-            "iso_639_1": "ta",
-            "name": "தமிழ்"
-          }
-        ],
-        "status": "Released",
-        "tagline": "",
-        "title": "Thalaivar Thambi Thalaimaiyil",
-        "video": false,
-        "vote_average": 7.5,
-        "vote_count": 2
-      },
-      "roast": {
-        "headline": "Wedding vs Funeral Scheduling Conflict Turns Tamil Village Into War Zone",
-        "overview": "A village leader must prevent total chaos when a wedding and a funeral get scheduled for the exact same morning. Two stubborn neighbors with ancient grudges refuse to budge. The entire community loses their minds over a calendar mishap. It all happens in one night, because apparently that's how long it takes for grown adults to forget how clocks work.",
-        "roast": "The premise is incredible: nothing destroys civilization faster than overlapping social events. The director watched neighbors fight over parking spots and thought, \"What if we made this a two-hour movie?\" Audiences are loving it because it's exactly the kind of small-scale disaster that feels real. We've all seen uncles argue over pettier things. Critics are praising the \"grounded dramedy\" and \"Malayalam-style humor,\" which is code for \"people yelling in a believable way.\" Everyone keeps saying it's refreshing to watch a Tamil movie where the hero doesn't punch physics in the face. The bar is so low it's underground. But honestly? A movie about scheduling drama that actually works is a miracle.",
-        "reception": {
-          "bars": 7,
-          "label": "Strong Approval"
-        },
-        "chips": [
-          "Calendar Wars",
-          "Ego Olympics",
-          "Panchayat Chaos"
-        ],
-        "similar_movies": [
-          "Falimy (2023) - dysfunctional family road trip unravels relationships and secrets",
-          "Joji (2021) - greedy son plots father's death for inheritance money",
-          "Maheshinte Prathikaaram (2016) - photographer seeks revenge after public humiliation slap",
-          "Sarpatta Parambarai (2021) - boxer fights rival clan while navigating caste politics"
-        ],
-        "shareable_caption": "Adults declaring war over Google Calendar. Cinema is alive. #PlotBurn"
-      },
-      "generated_at": "2026-01-25T08:43:07.944Z",
-      "disclaimer": "Satire. Facts unchanged.",
-      "truth_source": "grok-extraction",
-      "truth_fetched_at": "2026-01-25T08:42:53.090Z"
-    },
-    {
-      "movie": {
-        "adult": false,
         "backdrop_path": "/yMgpIzfqHZXbEN8ar9EAHJvdYJj.jpg",
         "belongs_to_collection": null,
         "budget": 24000000,
@@ -1233,5 +1065,680 @@ const items = [
       "disclaimer": "Satire. Facts unchanged.",
       "truth_source": "grok-extraction",
       "truth_fetched_at": "2026-01-25T08:36:26.422Z"
+    },
+	    {
+      "movie": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 10751,
+            "name": "Family"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 10749,
+            "name": "Romance"
+          }
+        ],
+        "homepage": "",
+        "id": 111558,
+        "imdb_id": "tt6450116",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "ta",
+        "original_title": "மாயாண்டி குடும்பத்தார்",
+        "overview": "Mayandi Kudumbathar (English: Mayandi's family) is a 2009 Indian Tamil film written and directed by Rasu Madhuravan, who directed Poomagal Oorvalam and Paandi previously. Starring 10 Tamil film directors, including Manivannan, Seeman, Tarun Gopi and Ponvannan, in lead and supporting roles. The film, scored by Sabesh-Murali and filmed by Balabharani, was released on 5 June 2009, going on to become successful at the box office.",
+        "popularity": 0.3772,
+        "poster_path": "/gT5pJJ4oVHCAWTDO489HQysMIem.jpg",
+        "production_companies": [],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2009-06-05",
+        "revenue": 0,
+        "runtime": 145,
+        "spoken_languages": [
+          {
+            "english_name": "Tamil",
+            "iso_639_1": "ta",
+            "name": "தமிழ்"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Mayandi Kudumbathar",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 2
+      },
+      "roast": {
+        "headline": "Ten Directors Decided to Act in a Movie About Property Disputes and Crying",
+        "overview": "A joint family splits over land, with four brothers torn between unity and partition pressures. The youngest son goes to engineering college and falls in love. Then the father dies from stepping on a wire, the wives turn evil, and everything ends with posthumous justice. Also, ten film directors are acting in this, which is either brilliant casting or a fascinating experiment in chaos.",
+        "roast": "Ten directors looked at this script about property feuds and family honor and said 'we should all be in this.' That is the kind of creative confidence that makes cinema magical. The story is straightforward: families fight over land, someone dies from an electrical accident, and unity is restored by a ghost's moral authority. Fans are weeping through every scene because the emotions hit hard and the village setting feels real. They are not asking why the romance is opposed 'for god only knows what.' They are just vibing with the tears and the folk music. Critics gave it a state award and called it heartwarming, which is true if your heart warms to watching people yell about inheritance for two and a half hours. The whole thing runs on the idea that joint families are sacred and splitting up is basically treason, and we all just accepted that as normal. It is a parade of directors past their prime delivering family drama with zero irony, and honestly, the audacity is beautiful.",
+        "reception": {
+          "bars": 7,
+          "label": "Worth Watching"
+        },
+        "chips": [
+          "Director Parade",
+          "Posthumous Justice",
+          "Property Melodrama"
+        ],
+        "similar_movies": [
+          "Devar Magan (1992) - city son returns village, solves father's murder mystery",
+          "Virumandi (2004) - death row prisoner tells violent village revenge backstory",
+          "Subramaniapuram (2008) - 1980s friends turn criminals over local power politics",
+          "Paruthiveeran (2007) - village romance ends tragically over caste honor killing"
+        ],
+        "shareable_caption": "Ten directors acted in a family feud movie and won awards #PlotBurn"
+      },
+      "generated_at": "2026-01-25T17:36:55.260Z",
+      "disclaimer": "Satire. Facts unchanged.",
+      "truth_source": "grok-extraction",
+      "truth_fetched_at": "2026-01-25T17:36:33.227Z"
+    },
+    {
+      "movie": {
+        "adult": false,
+        "backdrop_path": "/6ywskZ2n8wgyjCHFN1w0kjIXhGI.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          }
+        ],
+        "homepage": "",
+        "id": 1413333,
+        "imdb_id": null,
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "ta",
+        "original_title": "ரெட்ட தல",
+        "overview": "Kaali, a struggling Pondicherry orphan encounters his rich Goa doppelganger Malpe Upendra with criminal past, leading to identity swaps and messy consequences. Corrupt cop Thiraviyam and Upendra’s enemies soon conspire to put that to an end.",
+        "popularity": 8.6649,
+        "poster_path": "/qQ5y6ZnWzUF80J0TpqI3Ypw9Pgm.jpg",
+        "production_companies": [
+          {
+            "id": 236417,
+            "logo_path": null,
+            "name": "BTG Universal (IN)",
+            "origin_country": ""
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2025-12-25",
+        "revenue": 0,
+        "runtime": 113,
+        "spoken_languages": [
+          {
+            "english_name": "Tamil",
+            "iso_639_1": "ta",
+            "name": "தமிழ்"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Retta Thala",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      "roast": {
+        "headline": "Poor Guy Murders Rich Lookalike, Discovers Identity Theft Has Consequences",
+        "overview": "A broke orphan and his ambitious girlfriend kill his gangster doppelgänger to steal his wealth and identity. This triggers violent betrayals, moral clashes, and survival chaos as the swap unravels. The hero heals from gunshot wounds faster than he changes outfits, and the plot runs entirely on convenient coincidences.",
+        "roast": "Someone pitched a thriller where the solution to poverty is 'murder your rich twin and hope nobody notices,' and the entire crew just started filming! The movie treats this identity swap like a serious moral drama while the hero dodges bullets like he's made of rubber. Arun Vijay is working overtime playing both roles with genuine commitment, but the script keeps handing him convenient escapes and plot holes you could drive a truck through. Fans are thrilled by the dual performance and unexpected twists, happily ignoring that the story is held together by duct tape and vibes. Critics are desperately searching for emotional weight in a film that abandoned logic the moment someone said 'let's kill the lookalike.' The whole thing wants to be a stylish crime epic but ends up as a fever dream where consequences are optional and gunshot wounds heal during commercial breaks.",
+        "reception": {
+          "bars": 5,
+          "label": "Mixed Bag"
+        },
+        "chips": [
+          "Convenient Plotting",
+          "Double Trouble",
+          "Healing Factor"
+        ],
+        "similar_movies": [
+          "Billa (2007) - small-time criminal impersonates dead drug lord, chaos follows",
+          "Kaithi (2019) - ex-convict fights police corruption to save poisoned inmates",
+          "Vikram Vedha (2017) - gangster tells cop three stories challenging his morality",
+          "Raatchasan (2018) - failed filmmaker becomes cop hunting psycho killer targeting schoolgirls"
+        ],
+        "shareable_caption": "Two Arun Vijays couldn't save this conveniently plotted chaos #PlotBurn"
+      },
+      "generated_at": "2026-01-25T07:34:00.610Z",
+      "disclaimer": "Satire. Facts unchanged.",
+      "truth_source": "grok-extraction",
+      "truth_fetched_at": "2026-01-25T07:33:44.705Z"
+    },
+    {
+      "movie": {
+        "adult": false,
+        "backdrop_path": "/6rOWylYrsyPzB7qjwZPe9DFw6et.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
+          }
+        ],
+        "homepage": "",
+        "id": 1439594,
+        "imdb_id": "tt36472392",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "ml",
+        "original_title": "ചത്താ പച്ച: The Ring of Rowdies",
+        "overview": "In the heart of Fort Kochi, three brothers and their crew of unlikely misfits stumble into the wild world of WWE-style costumed wrestling. What begins as a scrappy hustle soon explodes into a riot of masks, egos, and full-blown madness, all set against the backdrop of a city that never plays by the rules. But can their brotherhood survive when the real fight begins outside the ropes?",
+        "popularity": 4.4401,
+        "poster_path": "/a41fqMDWRcZcDqidGcq10xmRoh.jpg",
+        "production_companies": [
+          {
+            "id": 279176,
+            "logo_path": null,
+            "name": "Reel World Entertainment",
+            "origin_country": ""
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2026-01-22",
+        "revenue": 0,
+        "runtime": 134,
+        "spoken_languages": [
+          {
+            "english_name": "Malayalam",
+            "iso_639_1": "ml",
+            "name": ""
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Chatha Pacha: The Ring of Rowdies",
+        "video": false,
+        "vote_average": 10,
+        "vote_count": 1
+      },
+      "roast": {
+        "headline": "Three WWE Fans Built Underground Wrestling Ring, Forgot To Write A Story",
+        "overview": "In Fort Kochi, three childhood friends obsessed with WWE launch an illegal wrestling club with theatrical costumes, masks, and egos. Their scrappy hustle attracts cops, rivals, and chaos. An asthmatic kid headlines the biggest match. A Mammootty cameo steals every scene. The action is stunning. The screenplay is a cardboard cutout.",
+        "roast": "The filmmakers watched WWE as kids and decided to make it real without asking 'why should we care?' They nailed the backflips and body slams but forgot humans need reasons to root for people. The action choreography is gorgeous. The emotional stakes are invisible. Fans are having a blast because the stunts look expensive and Mammootty shows up to weep at TV serials. They are not asking questions. They are just vibing with the nostalgia and explosions. Critics keep searching for a story that would make the fights matter. The movie heard 'emotional depth' and said 'nah, let's add another slow-motion punch instead.' It is a two-hour highlight reel that never builds to anything. The wrestlers have better character development than the actual characters.",
+        "reception": {
+          "bars": 6,
+          "label": "Mixed Bag"
+        },
+        "chips": [
+          "Empty Spectacle",
+          "Nostalgia Bait",
+          "Script Amnesia"
+        ],
+        "similar_movies": [
+          "RDX (2023) - three martial artists reunite for underground tournament revenge",
+          "Thallumaala (2022) - rival gang members recount chaotic fight-filled friendship history",
+          "Dangal (2016) - father trains daughters as wrestlers against society's expectations",
+          "Sultan (2016) - washed-up wrestler returns to ring for redemption"
+        ],
+        "shareable_caption": "They perfected the punches but forgot why anyone should care #PlotBurn"
+      },
+      "generated_at": "2026-01-25T07:38:24.535Z",
+      "disclaimer": "Satire. Facts unchanged.",
+      "truth_source": "grok-extraction",
+      "truth_fetched_at": "2026-01-25T07:38:10.763Z"
+    },
+    {
+      "movie": {
+        "adult": false,
+        "backdrop_path": "/c4GW20T51X7xxBlCuJPSzxXuLTp.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 28,
+            "name": "Action"
+          }
+        ],
+        "homepage": "",
+        "id": 47940,
+        "imdb_id": "tt0213969",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "ta",
+        "original_title": "படையப்பா",
+        "overview": "Padayappa, a mechanical engineer whose father gives up his property to his foster brother, and then dies of shock soon after. Neelambari initially loves Padayappa, but plans to humiliate him after his family humiliates her father. The rest of the plot deals with Padayappa overcoming all the obstacles placed by Neelambari.",
+        "popularity": 4.0021,
+        "poster_path": "/8PSYF0AtpLbSlTDneCUo7zP4qL1.jpg",
+        "production_companies": [
+          {
+            "id": 133307,
+            "logo_path": null,
+            "name": "Arunachala Cine Creations",
+            "origin_country": ""
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "1999-04-10",
+        "revenue": 0,
+        "runtime": 172,
+        "spoken_languages": [
+          {
+            "english_name": "Tamil",
+            "iso_639_1": "ta",
+            "name": "தமிழ்"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Padayappa",
+        "video": false,
+        "vote_average": 7.441,
+        "vote_count": 59
+      },
+      "roast": {
+        "headline": "Engineer Discovers Granite Hill, Becomes Chieftain, Fights Woman's Decades-Long Revenge Plot",
+        "overview": "A mechanical engineer loses everything when his father gifts the family fortune to a foster brother and dies of shock. He discovers granite on his remaining land, becomes wealthy, and spends the rest of the film dodging revenge schemes from a woman scorned who dedicates her entire life to ruining his happiness across generations.",
+        "roast": "The plot runs on the idea that a woman rejected in love will spend literal decades plotting revenge instead of just moving on with her life. That's the fuel powering this three-hour spectacle! The filmmakers discovered granite on their script and turned it into gold by adding Rajinikanth doing Rajinikanth things—swag, one-liners, songs thanking Tamil Nadu for his fame. Fans are still getting goosebumps at re-releases because the music slaps and watching a man be right about everything for 181 minutes is weirdly comforting. Modern viewers showed up expecting nostalgia and left questioning the gender politics, but the BGM was loud enough to drown out those thoughts. Critics gave it 86% because when Rajinikanth breaks the fourth wall to discuss politics, you either vibe with it or you're watching the wrong movie. The whole thing is built on convenient wealth discoveries and generational grudges that never get resolved, and we all just accepted that as peak cinema.",
+        "reception": {
+          "bars": 8,
+          "label": "Strong Approval"
+        },
+        "chips": [
+          "Granite Luck",
+          "Eternal Grudge",
+          "Physics Optional"
+        ],
+        "similar_movies": [
+          "Baashha (1995) - auto driver reveals past as Mumbai gangster protecting brother",
+          "Muthu (1995) - servant discovers he's heir to zamindari fighting for rightful place",
+          "Sivaji (2007) - NRI fights corrupt politician after donations stolen by system",
+          "Thalapathi (1991) - orphan gangster discovers mother abandoned him for family honor"
+        ],
+        "shareable_caption": "Woman plots revenge for 30 years instead of therapy #PlotBurn"
+      },
+      "generated_at": "2026-01-25T18:24:58.142Z",
+      "disclaimer": "Satire. Facts unchanged.",
+      "truth_source": "grok-extraction",
+      "truth_fetched_at": "2026-01-25T18:24:40.706Z"
+    },
+    {
+      "movie": {
+        "adult": false,
+        "backdrop_path": "/bEAdFxRSDrfuVhLfubZoubbcMqI.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
+          }
+        ],
+        "homepage": "",
+        "id": 69584,
+        "imdb_id": "tt0458176",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "ta",
+        "original_title": "தம்பி",
+        "overview": "A man cannot tolerate injustice and opposes it in any form; this earns him the wrath of a local goon, who plans to get rid of him at all costs.",
+        "popularity": 0.2282,
+        "poster_path": "/bCptmUo7Pi40oeb0vT55lnd8tGL.jpg",
+        "production_companies": [
+          {
+            "id": 98846,
+            "logo_path": null,
+            "name": "Motion Pictures Partners International",
+            "origin_country": ""
+          },
+          {
+            "id": 98847,
+            "logo_path": null,
+            "name": "Mid Valley Entertainment",
+            "origin_country": ""
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2006-02-22",
+        "revenue": 0,
+        "runtime": 160,
+        "spoken_languages": [
+          {
+            "english_name": "Tamil",
+            "iso_639_1": "ta",
+            "name": "தமிழ்"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Thambi",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 4
+      },
+      "roast": {
+        "headline": "Belly-Powered Vigilante Reforms Criminals By Making Them Face Reality, Whatever That Means",
+        "overview": "Thambi fights crime using powerful martial arts despite having a visible belly, which is honestly the most realistic part of this movie. He reforms criminals by making them 'face reality,' a method that involves zero actual explanation. The plot peaks when he helps his arch-enemy save his family during a strike that the enemy himself created. It's vigilante justice with extra steps and confusing logistics.",
+        "roast": "Madhavan looked at this script about reforming society through belly-powered martial arts and said 'absolutely, let's do this.' The genius move is helping your mortal enemy rescue his own family from a crisis he caused, which is either peak forgiveness or terrible strategy planning. The movie joins a long line of Tamil vigilante films where one angry guy fixes everything, except this time the method is 'making criminals face reality' without ever defining what that means. Fans loved it because Madhavan can sell anything and Vadivelu showed up to crack jokes between the moral lectures. Critics praised the 'noble intentions' while gently suggesting that maybe realism could've been invited to the party. The whole thing wants to be Indian or Anniyan but forgot that those movies at least explained their revenge systems. This one just vibes on righteous anger and unexplained belly strength.",
+        "reception": {
+          "bars": 6,
+          "label": "Mixed Bag"
+        },
+        "chips": [
+          "Belly Physics",
+          "Reality Therapy",
+          "Noble Chaos"
+        ],
+        "similar_movies": [
+          "Indian (1996) - old freedom fighter becomes vigilante killing corrupt officials",
+          "Ramana (2002) - professor creates system where public punishes corrupt politicians",
+          "Anniyan (2005) - lawyer with split personality murders wrongdoers using ancient laws",
+          "Sivaji (2007) - NRI fights corrupt system to build free medical college"
+        ],
+        "shareable_caption": "When your reform method is vibes and your weapon is belly power #PlotBurn"
+      },
+      "generated_at": "2026-01-25T17:59:06.187Z",
+      "disclaimer": "Satire. Facts unchanged.",
+      "truth_source": "grok-extraction",
+      "truth_fetched_at": "2026-01-25T17:58:47.561Z"
+    },
+    {
+      "movie": {
+        "adult": false,
+        "backdrop_path": "/AjcgCwXOrcJUKyH3ewldgykLkuD.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
+          }
+        ],
+        "homepage": "",
+        "id": 69595,
+        "imdb_id": "tt1509832",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "ta",
+        "original_title": "வாழ்த்துக்கள்",
+        "overview": "Kadhiravan, a businessman, desires a wife who should respect his parents. After seeing Kayalvizhi on TV, he meets her on the pretext of being a home contractor and slowly makes his way into her heart.",
+        "popularity": 1.6496,
+        "poster_path": "/8LRFhVKwqQtv1oytQBWmD48Ly2f.jpg",
+        "production_companies": [
+          {
+            "id": 14306,
+            "logo_path": "/qNv0ySirxxcxYNuDOmuobst9zV8.png",
+            "name": "Amma Creations",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2008-01-14",
+        "revenue": 0,
+        "runtime": 160,
+        "spoken_languages": [
+          {
+            "english_name": "Tamil",
+            "iso_639_1": "ta",
+            "name": "தமிழ்"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Vaazhthugal",
+        "video": false,
+        "vote_average": 4,
+        "vote_count": 1
+      },
+      "roast": {
+        "headline": "Man Catfishes Woman With Home Renovation Lies, Calls It Romance and Family Values",
+        "overview": "A businessman spots a woman on TV, decides she's marriage material, then pretends to be a contractor to infiltrate her life. The plan works because apparently nobody asks for references. What starts as a stalker origin story becomes a lecture about respecting elders and avoiding old age homes, all delivered through dialogue so stiff it makes the actors look like they're reading cue cards.",
+        "roast": "This movie's love story begins with a man watching TV and thinking 'I'll lie my way into her house.' That's the foundation we're building on! The filmmakers took this unhinged premise and wrapped it in a two-and-a-half-hour sermon about family values, as if deception and morality naturally go together. Fans are celebrating the fact that nobody speaks English, treating language purity like it fixes the boring scenes and contrived dialogue. The movie wants to lecture us about caring for elders while the hero is literally pretending to be someone else for personal gain. Critics praised the 'sincere performances' even though the script makes everyone sound like they're reciting a civics textbook. The whole thing loses steam halfway through because even the director got tired of maintaining this charade. It's a romance built on lies preaching about honesty, and we all just nodded along.",
+        "reception": {
+          "bars": 5,
+          "label": "Mixed Bag"
+        },
+        "chips": [
+          "Contractor Catfish",
+          "Elder Lectures",
+          "English Boycott"
+        ],
+        "similar_movies": [
+          "Kadhalukku Mariyadhai (1997) - village girl city boy love opposed by caste pride",
+          "Sethu (1999) - college rowdy falls for girl reforms through tragic love story",
+          "Ghilli (2004) - kabaddi player rescues girl from forced marriage runs across state",
+          "Paruthiveeran (2007) - rustic villager loves cousin faces violent family honor clash"
+        ],
+        "shareable_caption": "When your meet-cute is identity fraud but the moral is respect elders #PlotBurn"
+      },
+      "generated_at": "2026-01-25T17:57:43.715Z",
+      "disclaimer": "Satire. Facts unchanged.",
+      "truth_source": "grok-extraction",
+      "truth_fetched_at": "2026-01-25T17:44:04.415Z"
+    },
+    {
+      "movie": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 10751,
+            "name": "Family"
+          }
+        ],
+        "homepage": "",
+        "id": 78612,
+        "imdb_id": "tt6551244",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "ta",
+        "original_title": "Suryavamsam",
+        "overview": "The movie shows a true to life story related to a common run Indian family, where the esteem of a family is held in high regard. The story is an exemplary portrayal of the liabilities of a responsible father, obligations of a dutiful son, role of a virtuous wife and harmony in the family unified by psychological bonds.",
+        "popularity": 0.5518,
+        "poster_path": "/m7JjzetBAEP2BOvyp8StzuZTAFb.jpg",
+        "production_companies": [
+          {
+            "id": 16427,
+            "logo_path": null,
+            "name": "Super Good Films",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "1997-06-27",
+        "revenue": 0,
+        "runtime": 149,
+        "spoken_languages": [
+          {
+            "english_name": "Tamil",
+            "iso_639_1": "ta",
+            "name": "தமிழ்"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Suryavamsam",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 4
+      },
+      "roast": {
+        "headline": "Father Casts Himself As Both The Problem And Solution In Family Drama",
+        "overview": "A village leader is furious with his careless son for refusing an arranged marriage, so naturally the solution is to also play the son in a dual role and fix everything through the power of family honor. The film treats this father-son conflict like a Shakespearean tragedy while everyone just nods along to the melodrama. It won six state awards and became a blockbuster, proving that audiences will forgive anything if you cry loud enough about family values.",
+        "roast": "Sarathkumar looked at this script and said 'I'll play both the angry dad AND the disappointing son,' which is the kind of confidence that built empires. The movie is a two-and-a-half-hour lecture on family honor where the biggest crime is refusing to marry someone your dad picked. Fans are rewatching it religiously because the acting is so over-the-top it loops back to entertaining. They're not here for subtlety; they're here for theatrical weeping and dialogue delivery that could shatter glass. Critics gave it six state awards and called it a 'true-to-life family story,' which is wild because most families don't solve their problems by having one person play both sides of the argument. The whole thing runs on the idea that family esteem is worth destroying your personal happiness, and we all just accepted that as normal. It's been remade in five languages because apparently every region needed their own version of this beautiful chaos.",
+        "reception": {
+          "bars": 8,
+          "label": "Strong Approval"
+        },
+        "chips": [
+          "Family Honor",
+          "Dual Guilt",
+          "Melodrama Olympics"
+        ],
+        "similar_movies": [
+          "Baashha (1995) - auto driver hides mafia past, protects family from revenge",
+          "Thevar Magan (1992) - city boy returns village, learns caste politics from father",
+          "Padayappa (1999) - engineer fights greedy relatives, builds empire from nothing",
+          "Muthu (1995) - servant discovers he's heir, battles family for rightful place"
+        ],
+        "shareable_caption": "When family drama needs you to literally argue with yourself #PlotBurn"
+      },
+      "generated_at": "2026-01-25T17:26:06.681Z",
+      "disclaimer": "Satire. Facts unchanged.",
+      "truth_source": "grok-extraction",
+      "truth_fetched_at": "2026-01-25T17:25:49.990Z"
+    },
+    {
+      "movie": {
+        "adult": false,
+        "backdrop_path": "/jGdicq27gdZclSyeJ0LzKMUxiX2.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 35,
+            "name": "Comedy"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
+          }
+        ],
+        "homepage": "",
+        "id": 869140,
+        "imdb_id": "tt36926733",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "ta",
+        "original_title": "தலைவர் தம்பி தலைமையில்",
+        "overview": "A village official attending a wedding becomes entangled in an escalating family dispute over power and old resentments, testing his leadership as he tries to contain the situation.",
+        "popularity": 2.0296,
+        "poster_path": "/wqofJvDrFv65QgyVmNI4loi9jZZ.jpg",
+        "production_companies": [
+          {
+            "id": 276260,
+            "logo_path": "/di3vc8S4QGDOR8hP2wC8x59z0VU.png",
+            "name": "Kannan Ravi Groups",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2026-01-15",
+        "revenue": 0,
+        "runtime": 113,
+        "spoken_languages": [
+          {
+            "english_name": "Tamil",
+            "iso_639_1": "ta",
+            "name": "தமிழ்"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Thalaivar Thambi Thalaimaiyil",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 2
+      },
+      "roast": {
+        "headline": "Village Wedding Crashes Into Funeral Procession, Becomes Pongal's Surprise Therapy Session",
+        "overview": "A village politician tries to manage a wedding and a funeral scheduled for the exact same morning because two neighbors with ancient beef refuse to budge. What starts as a scheduling nightmare turns into a compact comedy about egos, votes, and why grown men will destroy civilization over a calendar conflict. It's 113 minutes of chaos where the real villain is stubbornness.",
+        "roast": "The premise is pure gold: two neighbors would rather burn the village down than reschedule a funeral by three hours. That is the level of pettiness we're working with here. The filmmakers took this absurd standoff and turned it into a grounded dramedy that somehow works. Audiences are delighted because the comedy is clean, the runtime is short, and Jiiva is managing egos like a hostage negotiator at a daycare. Critics are praising the 'gentle commentary on unity' while conveniently ignoring that the entire plot hinges on adults acting like toddlers. The movie wants to say something deep about leadership and community, but really it's just celebrating how ridiculous humans get when their pride is threatened. It's a wedding, a funeral, and a political campaign colliding in real time, and we're all here for the beautiful disaster.",
+        "reception": {
+          "bars": 7,
+          "label": "Worth Watching"
+        },
+        "chips": [
+          "Ego Olympics",
+          "Calendar Wars",
+          "Pettiness Peak"
+        ],
+        "similar_movies": [
+          "Maheshinte Prathikaaram (2016) - photographer seeks revenge after public humiliation in small town",
+          "Jathi Ratnalu (2021) - three friends accidentally become politicians fighting corruption case",
+          "Soodhu Kavvum (2013) - kidnappers accidentally abduct wrong person, chaos spirals hilariously",
+          "Angamaly Diaries (2017) - pork seller navigates gang rivalries and family drama in Kerala town"
+        ],
+        "shareable_caption": "When scheduling conflicts become existential crises, cinema is born. #PlotBurn"
+      },
+      "generated_at": "2026-01-25T07:41:27.084Z",
+      "disclaimer": "Satire. Facts unchanged.",
+      "truth_source": "grok-extraction",
+      "truth_fetched_at": "2026-01-25T07:41:11.231Z"
     }
   ];
